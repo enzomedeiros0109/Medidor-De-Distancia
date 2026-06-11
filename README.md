@@ -78,7 +78,7 @@ As conexões foram estabelecidas utilizando portas específicas da CPU STC89C52R
 
 ## Imagens
 
-![Foto do Hardware](assets/hardware_view.png)
+![Foto do Hardware](assets/hardware_view.jpeg)
 ![Foto do circuito funcionando](assets/practice_view.png)
 ![Foto do projeto no Proteus](assets/schematic_view.png)
-![Foto do App](assets/app_view.png)
+![Foto do App](assets/app_view.jpg)
