@@ -78,7 +78,16 @@ As conexões foram estabelecidas utilizando portas específicas da CPU STC89C52R
 
 ## Imagens
 
-![Foto do Hardware](assets/hardware_view.jpeg)
-![Foto do circuito funcionando](assets/practice_view.png)
-![Foto do projeto no Proteus](assets/schematic_view.png)
-![Foto do App](assets/app_view.jpg)
+| Esquemático no Proteus | Circuito em Funcionamento | Hardware Finalizado |
+| :---: | :---: | :---: |
+| ![Projeto no Proteus](assets/schematic_view.png) | ![Circuito funcionando](assets/practice_view.png) | ![Hardware](assets/hardware_view.jpeg) |
+| *1. Modelação e Simulação* | *2. Testes de Bancada e Validação* | *3. Montagem Física Final* |
+
+<br>
+
+### Interface do Utilizador
+
+| Aplicação / Interface Gráfica |
+| :---: |
+| <img src="assets/app_view.jpg" alt="Foto do App" width="250"> |
+| *4. Tela de Monitorização* |
