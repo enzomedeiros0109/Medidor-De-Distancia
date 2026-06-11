@@ -75,3 +75,10 @@ As conexões foram estabelecidas utilizando portas específicas da CPU STC89C52R
 * Permita a instalação de fontes desconhecidas e instale o app.
 * Pareie o módulo HC-05 com o seu celular via configurações do Android (a senha padrão costuma ser `1234` ou `0000`).
 * Abra o aplicativo, conecte-se ao módulo e visualize as medições em tempo real.
+
+## Imagens
+
+![Foto do Hardware](assets/hardware_view.png)
+![Foto do circuito funcionando](assets/practice_view.png)
+![Foto do projeto no Proteus](assets/schematic_view.png)
+![Foto do App](assets/app_view.png)
